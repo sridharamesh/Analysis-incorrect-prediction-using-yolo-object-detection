@@ -1,4 +1,4 @@
-# Analysis-incorrect-prediction-using-yolo-object-detection
+# Analysis-incorrect-prediction-in-yolo-object-detection
 
 This project implements a tool for evaluating object detection models on the COCO dataset. It visualizes ground truth and predictions, identifies false positives and false negatives, and saves the results for further analysis.
 
